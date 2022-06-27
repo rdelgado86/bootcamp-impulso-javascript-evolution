@@ -13,15 +13,6 @@ Repositório contendo a minha jornada no Bootcamp Impulso Javascript Evolution
 
 O bootcamp Impulso JavaScript Evolution é um programa de recrutamento de devs de todo o Brasil e diferentes níveis técnicos para trabalhar na Impulso de forma 100% remota. O Impulso JavaScript Evolution é para qualquer dev que tem como foco evoluir em uma jornada Fullstack e alcançar outro patamar na carreira. São dezenas de oportunidades de contratação para profissionais que querem elevar seu nível técnico.
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
-
 Conteúdos - Anotações - 🚧 Em construção... 🚧 
 =================
 <!--ts-->
@@ -46,7 +37,6 @@ Conteúdos - Anotações - 🚧 Em construção... 🚧
 ---
 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/6931528?s=96&v=4" width="100px;" alt=""/>
- <br />
  
 Feito com ❤️ por Ricardo Delgado 👋🏽 Entre em contato!
 
